@@ -1,0 +1,16 @@
+* Opdracht:
+    For this project, you will build a message generator program. 
+    Every time a user runs a program, they should get a new, randomized output. 
+    You’re welcome to take the project in a couple of different forms, 
+    like an astrology generator, inspirational message, or nonsensical jokes. 
+    To make your program truly random, the message that it outputs should be made up of at least three different pieces of data. 
+    Take what you know of JavaScript syntax so far to build the program and customize it to your liking.
+* Plan your project:
+    - Omdat er 3 verschillende random data-strings gebruikt moeten worden om een random boodschap te printen,
+        ga ik gebruik maken van triatlon. Er zijn 3 disciplines dus dat past mooi. 
+        Wellicht dat ik een bonus maak voor de wisselzone.
+    - Het idee is dat het programma een wedstrijd tractiek print voor een random sprint of olympische triatlon. 
+    - Het programma vraagt eerst voor een imput voor de naam van de persoon en daarna voor de afstand van de tri. 
+      Het bericht wordt aangepast aan de hand van afstand. en de naam wordt gebruikt in het bericht. 
+    - Het is woensdag 29 jan en ik ga dit project afronden voor vrijdag.
+
